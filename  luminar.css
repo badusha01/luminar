@@ -1,0 +1,136 @@
+.b1{
+    background-color: #5e068a;
+}
+.f1{
+    font-size: small;
+}
+.n1{
+    
+        margin-left: 261px;
+        text-align: start;
+        font-weight: bold;
+        padding-bottom: 248px;
+        font-size: 50px;
+    }
+
+.nav-link:hover{
+
+    background-color: white;
+    color: #5e068a;
+    
+
+}
+
+.txt{
+    font: 12px;
+    font-weight: 300;
+}
+
+.car1 {
+    
+    margin-left: 250px;
+    font-size: 15px;
+    text-align: start;
+    font-size: 15px;
+}
+
+.btncar1{
+    background-color: #5e068a;
+    color: white;
+    border-radius: 30px;
+    font-size: 15px;
+    width: 190px;
+    height: 60px;
+    font-weight: bold;
+    margin-bottom: -7px;
+    margin-left: -583px;
+
+}
+.btncar2{
+    background-color: #5e068a;
+    color: white;
+    border-radius: 30px;
+    font-size: 15px;
+    width: 190px;
+    height: 60px;
+    font-weight: bold;
+    margin-bottom: -96px;
+    margin-left: -583px;
+
+}
+
+.btncar1:hover{
+    background-color: blueviolet;
+}
+
+.btnmodal{
+    background-color: #5e068a;
+    color: white;
+    width: 150px;
+    font-weight: bold;
+    font-size: 13px;
+    height: 35px;
+}
+
+.btnmodal:hover{
+    background-color: blueviolet;
+}
+
+
+.abth3 {
+    color: #5e068a;
+}
+
+.abth6 {
+    color: #5e068a;
+    font-weight: 200;
+    font-size: 18px;
+}
+.abtbtn:hover {
+    background-color: white;
+    border-color:  #5e068a;
+    color:  #5e068a;
+}
+
+.abtbtn {
+    background-color: #5e068a;
+    color: white;
+    width: 170px;
+    font-weight: bold;
+    font-size: 15px;
+    height: 60px;
+    border-radius: 30px;
+    border: blueviolet 2px solid;
+}
+
+.coudiv:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.coursesh3 {
+    text-align: center;
+    color: #5e068a;
+    font-weight: 600;
+}
+
+.corspn {
+    color: #5e068a;
+}
+
+.coup {
+    color: black;
+    font-size: 15px;
+    text-align: start;
+    font-weight: 300;
+}
+
+.couh5 {
+    text-align: start;
+    font-size: 20px;
+}
+
+.clr{
+    color: black;
+}
